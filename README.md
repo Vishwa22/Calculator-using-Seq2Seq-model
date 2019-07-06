@@ -4,7 +4,7 @@ This is a simple tutorial where a seq2seq model is implemented in tensorflow for
 
 Examples:
 
-Input string: '768`*`375'
+Input string: **'768`*`375'**
 Output string ''288000'
 
 Input string: '629`+`974' 
